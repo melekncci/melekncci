@@ -21,7 +21,5 @@ Hi, I'm a math engineering student with a passion for programming and a strong d
 ---
 [![](https://visitcount.itsvg.in/api?id=melekncci&icon=2&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/melekncci) 
 
  
