@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm a math engineering student with a passion for programming and a strong desire to pursue a career in software development. My fascination with mathematics, computer science and engineering and my innate curiosity drive me to solve complex problems and learn new technical skills.<br><br>I am currently focusing on developing my C and Python programming expertise with a focus on data science and artificial intelligence. I also explore machine learning algorithms, statistical analysis and data visualization tools to deepen my understanding of these areas.<br><br>I am eager to gain experience and knowledge through an internship or entry-level position in the industry. As a fast learner, I believe in my ability to contribute to any team, whether working independently or collaboratively. My goal is to use my skills and knowledge to create innovative software engineering solutions and to continue to learn and grow as a developer.
+I am a Mathematical Engineering student at Yildiz Technical University, with a focus on data science and software engineering. As an Erasmus Exchange Student at Halmstad University, I expanded my expertise in Computer and Electrical Engineering.
+
+Professionally, I interned at Clockworx Solutions as a Process Engineer, optimizing business processes and supporting software development. Additionally, I have hands-on experience in data science and digital banking through internships and bootcamps, enhancing my skills in Python, SQL, and machine learning.
+
+Passionate about mentoring, I served as a Jr. Fellow at Kodluyoruz, guiding students in coding and technology. My goal is to drive innovation in data science and software engineering, contributing to impactful projects in dynamic environments.
 
 
 ## 🌐 Socials:
